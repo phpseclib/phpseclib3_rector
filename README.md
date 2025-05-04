@@ -13,6 +13,7 @@ With [Composer](https://getcomposer.org/):
 ```
 composer require phpseclib/phpseclib2_rector:~1.0
 ```
+
 ## Usage
 
 Create a rector.php file with the following contents:
