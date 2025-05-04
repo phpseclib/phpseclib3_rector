@@ -1,0 +1,20 @@
+{
+    "name": "phpseclib/phpseclib3_rector",
+    "description": "Rector rules for upgrading from phpseclib v2 to phpseclib v3",
+    "type": "rector-extension",
+    "require": {
+        "rector/rector": "^2.0.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "phpseclib\\phpseclib3Rector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "terrafrost",
+            "email": "terrafrost@php.net"
+        }
+    ]
+}
