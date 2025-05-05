@@ -11,7 +11,7 @@ You can use [phpseclib2_compat](https://github.com/phpseclib/phpseclib2_compat) 
 With [Composer](https://getcomposer.org/):
 
 ```
-composer require phpseclib/phpseclib2_rector:~1.0
+composer require phpseclib/phpseclib3_rector:~1.0
 ```
 
 ## Usage
